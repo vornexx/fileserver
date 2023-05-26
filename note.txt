@@ -1,7 +1,6 @@
-files.alistair.cloud
+vornexdocs.vercel.com
 
 my personal file storage
 
-• npmjs.com/package/serve running in Docker (see /Dockerfile), reverse proxied behind Caddy, publicly proxied behind Cloudflare
-• Server is running tailscale + taildrop so I can transfer files from anywhere
-• Nothing of value here, sorry :3
+
+• Nothing of value here,
